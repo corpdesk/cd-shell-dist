@@ -1,0 +1,7 @@
+{
+	"cdUser": "http://146.190.157.42:4407/remoteEntry.js",
+	"cdComm": "http://146.190.157.42:4401/remoteEntry.js",
+	"cdPms": "http://146.190.157.42:4401/remoteEntry.js",
+	"cdHrm": "http://146.190.157.42:4401/remoteEntry.js",
+	"cdModuleman": "http://146.190.157.42:4401/remoteEntry.js"
+}
