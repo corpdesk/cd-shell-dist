@@ -202,7 +202,6 @@ Trademarks
 
 
 @corpdesk/core
-MIT
 
 @firebase/app
 Apache-2.0
