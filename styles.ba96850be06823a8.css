@@ -1,0 +1,1 @@
+.ecommerce button.collapsed:after{content:"\f0415";top:50%}.ecommerce button:after{content:"\f0374";display:block;font-family:Material Design Icons;font-size:16px;position:absolute;right:20px;font-weight:500;top:30%;background-image:none;transform:translateY(-50%)}.accordion-button:not(.collapsed):after{background-image:none}
